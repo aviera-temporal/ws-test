@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WebSocket" type="WebSocket">
+    <CLASSES>
+      <root url="jar://$TISSCABUNDLE$/java-libraries/websocket-api/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
