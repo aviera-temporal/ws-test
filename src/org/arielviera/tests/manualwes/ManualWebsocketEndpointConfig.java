@@ -1,4 +1,4 @@
-package org.arielviera.tests;
+package org.arielviera.tests.manualwes;
 
 import javax.websocket.Decoder;
 import javax.websocket.Encoder;
@@ -19,7 +19,7 @@ public class ManualWebsocketEndpointConfig implements ServerEndpointConfig {
 
     @Override
     public String getPath() {
-        return "/reping";
+            return "/reping";
     }
 
     @Override

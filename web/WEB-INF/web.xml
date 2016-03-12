@@ -12,6 +12,6 @@
         <url-pattern>/test</url-pattern>
     </servlet-mapping>
     <listener>
-        <listener-class>org.arielviera.tests.ManualWebsocketRegistererListener</listener-class>
+        <listener-class>org.arielviera.tests.manualwes.ManualWebsocketRegistererListener</listener-class>
     </listener>
 </web-app>

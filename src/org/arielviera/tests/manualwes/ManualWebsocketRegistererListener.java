@@ -1,4 +1,4 @@
-package org.arielviera.tests; /**
+package org.arielviera.tests.manualwes; /**
  * Created by avd on 2016-03-05.
  */
 

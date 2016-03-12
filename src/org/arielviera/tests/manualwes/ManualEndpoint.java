@@ -1,4 +1,4 @@
-package org.arielviera.tests;
+package org.arielviera.tests.manualwes;
 
 import javax.websocket.Endpoint;
 import javax.websocket.EndpointConfig;
